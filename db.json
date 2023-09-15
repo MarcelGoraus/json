@@ -152,6 +152,52 @@
       "portions": 2,
       "duration": "45 Minuten",
       "difficulty": "Einfach"
+    },
+     {
+      "id": 3,
+      "category_id": 1,
+      "name": "Pasta Bolognese",
+      "images": [
+        "https://images.unsplash.com/photo-1546549032-9571cd6b27df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+        "https://images.unsplash.com/photo-1579631542720-3a87824fff86?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1964&q=80"
+      ],
+      "ingredients": [
+        {
+          "name": "Zutat 1",
+          "quantity": 100,
+          "unit": "Gramm",
+          "protein": 5,
+          "carbohydrates": 20,
+          "calories": 150,
+          "sugar": 2
+        },
+        {
+          "name": "Zutat 2",
+          "quantity": 2,
+          "unit": "Esslöffel",
+          "protein": 1,
+          "carbohydrates": 10,
+          "calories": 50,
+          "sugar": 1
+        },
+        {
+          "name": "Zutat 3",
+          "quantity": 50,
+          "unit": "Gramm",
+          "protein": 3,
+          "carbohydrates": 15,
+          "calories": 100,
+          "sugar": 3
+        }
+      ],
+      "instructions": [
+        "Schritt 1: Zutat 1 vorbereiten.",
+        "Schritt 2: Zutat 2 hinzufügen.",
+        "Schritt 3: Zutat 3 vermengen und servieren."
+      ],
+      "portions": 4,
+      "duration": "30 Minuten",
+      "difficulty": "Mittel"
     }
   ],
   "posts": [
